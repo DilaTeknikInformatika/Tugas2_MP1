@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">oganishop</string>
+    <string name="conten_price">$30.00</string>
+    <string name="content_text"><b>Product Information:</b>
+        Tropicana 100% Pure and Natural Orange Juice - Some Pulp is made
+        with 100% pure orange juice and no added sugar. A 250 ml serving
+        provides your body with a full day’s supply of Vitamin C, all the
+        potassium you’d find in a medium sized banana, and an excellent source of folate.
+        This 946 ml carton is ideal for sharing with family.</string>
+    <string name="conten_brand"><b>Brand:</b> Tropicana</string>
+    <string name="conten_gable"><b>Storage Tips:</b> GABLE TOP</string>
+</resources>
